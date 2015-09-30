@@ -20,7 +20,8 @@ Index
 * [Frequently asked questions](#frequently-asked-questions)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
-* [Compile AFWall+](#compile-afwall+)
+* [Compile AFWall+](#compile-afwall)
+* [Compiling Native Binaries](#compiling-native-binaries)
 * [Contributing](#contributing)
 * [Translating](#translating)
 
